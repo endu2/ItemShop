@@ -1,6 +1,6 @@
-Wrap_234_GlowVortex, 300
-CID_720_Athena_Commando_F_StreetFashionEmerald, 1000
-CID_460_Athena_Commando_F_BriteBomberSummer, 1000
+EID_KPopDance03, 300
+CID_703_Athena_Commando_M_Cyclone, 1500
+CID_175_Athena_Commando_M_Celestial, 2300
 na
 na
 na
